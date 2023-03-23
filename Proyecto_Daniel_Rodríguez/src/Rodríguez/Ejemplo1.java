@@ -11,6 +11,7 @@ public class Ejemplo1 {
         num1 = teclado.nextInt();
         System.out.println("Introduzca un número: ");
         num2 = teclado.nextInt();
+        System.out.println("Holaaaa");
 
         if (num1 > num2) {
 
